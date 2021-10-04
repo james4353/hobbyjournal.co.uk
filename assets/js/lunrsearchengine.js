@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "//",
     "title": "Home",
-    "body": "      Featured:                     All Stories:                                                                                                     Hello, World              :       Hello to everyone reading this! From a new blog, hello!:                               12 Jun 2018        &lt;/span&gt;                                    "
+    "body": "      Featured:                     All Stories:                                                             Hello, World              :       Hello to everyone reading this! From a new blog, hello!:                               04 Oct 2021        &lt;/span&gt;                                    "
     }, {
     "id": 4,
     "url": "//robots.txt",
@@ -26,9 +26,9 @@ var documents = [{
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 5,
-    "url": "//powerful-things-markdown-editor/",
+    "url": "//hello-world/",
     "title": "Hello, World",
-    "body": "2018/06/12 - Hello to everyone reading this! From a new blog, hello! This blog will be where I publish hobby electronics, fun software development projects, LEGO posts. We’re just getting started, so stay tuned; it’s going to be a fun journey! "
+    "body": "2021/10/04 - Hello to everyone reading this! From a new blog, hello! This blog will be where I publish hobby electronics, fun software development projects, LEGO posts. We’re just getting started, so stay tuned; it’s going to be a fun journey! "
     }];
 
 var idx = lunr(function () {
