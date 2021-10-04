@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hobby Journal</title>
+    <description>Hobby electronics, software development, LEGO</description>
+    <link>//</link>
+    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 04 Oct 2021 10:21:35 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Oct 2021 10:21:35 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Hello, World</title>
+        <description>&lt;p&gt;Hello to everyone reading this! From a new blog, hello!&lt;/p&gt;
+
+&lt;p&gt;This blog will be where I publish hobby electronics, fun software development projects, LEGO posts.&lt;/p&gt;
+
+&lt;p&gt;We’re just getting started, so stay tuned; it’s going to be a fun journey!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 +0100</pubDate>
+        <link>//powerful-things-markdown-editor/</link>
+        <guid isPermaLink="true">//powerful-things-markdown-editor/</guid>
+        
+        <category>hello</category>
+        
+        
+        <category>intro</category>
+        
+      </item>
+    
+  </channel>
+</rss>
