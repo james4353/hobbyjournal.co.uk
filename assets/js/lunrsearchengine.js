@@ -1,32 +1,32 @@
 
 var documents = [{
     "id": 0,
-    "url": "//404.html",
+    "url": "https://hobbyJournal.co.uk/404.html",
     "title": "404",
     "body": "404 Page does not exist!Please use the search bar at the top or visit our homepage! "
     }, {
     "id": 1,
-    "url": "//about",
+    "url": "https://hobbyJournal.co.uk/about",
     "title": "Mediumish Template for Jekyll",
     "body": "This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.  Documentation: Please, read the docs here. Questions or bug reports?: Head over to our Github repository! Buy me a coffeeThank you for your support! Your donation helps me to maintain and improve Mediumish . Buy me a coffee Documentation"
     }, {
     "id": 2,
-    "url": "//categories",
+    "url": "https://hobbyJournal.co.uk/categories",
     "title": "Categories",
     "body": ""
     }, {
     "id": 3,
-    "url": "//",
+    "url": "https://hobbyJournal.co.uk/",
     "title": "Home",
     "body": "      Featured:                     All Stories:                                                             Hello, World              :       Hello to everyone reading this! From a new blog, hello!:                                                                               Volkan                04 Oct 2021                                            "
     }, {
     "id": 4,
-    "url": "//robots.txt",
+    "url": "https://hobbyJournal.co.uk/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 5,
-    "url": "//hello-world/",
+    "url": "https://hobbyJournal.co.uk/hello-world/",
     "title": "Hello, World",
     "body": "2021/10/04 - Hello to everyone reading this! From a new blog, hello! This blog will be where I publish hobby electronics, fun software development projects, LEGO posts. We’re just getting started, so stay tuned; it’s going to be a fun journey! "
     }];

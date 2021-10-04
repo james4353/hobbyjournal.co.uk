@@ -3,10 +3,10 @@
   <channel>
     <title>Hobby Journal</title>
     <description>Hobby electronics, software development, LEGO</description>
-    <link>//</link>
-    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Oct 2021 10:42:30 +0100</pubDate>
-    <lastBuildDate>Mon, 04 Oct 2021 10:42:30 +0100</lastBuildDate>
+    <link>https://hobbyJournal.co.uk/</link>
+    <atom:link href="https://hobbyJournal.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 04 Oct 2021 10:48:59 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Oct 2021 10:48:59 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -18,8 +18,8 @@
 &lt;p&gt;We’re just getting started, so stay tuned; it’s going to be a fun journey!&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
-        <link>//hello-world/</link>
-        <guid isPermaLink="true">//hello-world/</guid>
+        <link>https://hobbyJournal.co.uk/hello-world/</link>
+        <guid isPermaLink="true">https://hobbyJournal.co.uk/hello-world/</guid>
         
         <category>hello</category>
         
