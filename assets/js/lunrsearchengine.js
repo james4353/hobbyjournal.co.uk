@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "//",
     "title": "Home",
-    "body": "      Featured:                     All Stories:                                                             Hello, World              :       Hello to everyone reading this! From a new blog, hello!:                               04 Oct 2021        &lt;/span&gt;                                    "
+    "body": "      Featured:                     All Stories:                                                             Hello, World              :       Hello to everyone reading this! From a new blog, hello!:                                                                               Volkan                04 Oct 2021                                            "
     }, {
     "id": 4,
     "url": "//robots.txt",
